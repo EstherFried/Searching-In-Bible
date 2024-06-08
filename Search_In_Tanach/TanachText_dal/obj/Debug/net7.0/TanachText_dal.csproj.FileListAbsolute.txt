@@ -1,0 +1,12 @@
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\bin\Debug\net7.0\TanachText_dal.deps.json
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\bin\Debug\net7.0\TanachText_dal.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\bin\Debug\net7.0\TanachText_dal.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.AssemblyInfoInputs.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.AssemblyInfo.cs
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\refint\TanachText_dal.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\TanachText_dal.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\TanachText_dal\obj\Debug\net7.0\ref\TanachText_dal.dll

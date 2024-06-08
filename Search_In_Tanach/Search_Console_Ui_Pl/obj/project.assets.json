@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Search_Entities_Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Search_Entities_Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Search_Entities_Dto.dll": {}
+        }
+      },
+      "Search_Logic_Bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Search_Entities_Dto": "1.0.0",
+          "TanachText_dal": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Search_Logic_Bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Search_Logic_Bll.dll": {}
+        }
+      },
+      "TanachText_dal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TanachText_dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TanachText_dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search_Entities_Dto/1.0.0": {
+      "type": "project",
+      "path": "../Search_Entities_Dto/Search_Entities_Dto.csproj",
+      "msbuildProject": "../Search_Entities_Dto/Search_Entities_Dto.csproj"
+    },
+    "Search_Logic_Bll/1.0.0": {
+      "type": "project",
+      "path": "../Search_Logic_Bll/Search_Logic_Bll.csproj",
+      "msbuildProject": "../Search_Logic_Bll/Search_Logic_Bll.csproj"
+    },
+    "TanachText_dal/1.0.0": {
+      "type": "project",
+      "path": "../TanachText_dal/TanachText_dal.csproj",
+      "msbuildProject": "../TanachText_dal/TanachText_dal.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Search_Entities_Dto >= 1.0.0",
+      "Search_Logic_Bll >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Console_Ui_Pl\\Search_Console_Ui_Pl.csproj",
+      "projectName": "Search_Console_Ui_Pl",
+      "projectPath": "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Console_Ui_Pl\\Search_Console_Ui_Pl.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Console_Ui_Pl\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Entities_Dto\\Search_Entities_Dto.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Entities_Dto\\Search_Entities_Dto.csproj"
+            },
+            "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Logic_Bll\\Search_Logic_Bll.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\שנה ב\\C#\\Search_In_Tanach_Project\\Search_In_Tanach\\Search_Logic_Bll\\Search_Logic_Bll.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\Search_Logic_Bll.deps.json
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\Search_Logic_Bll.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\Search_Logic_Bll.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\Search_Entities_Dto.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\TanachText_dal.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\Search_Entities_Dto.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\bin\Debug\net7.0\TanachText_dal.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.csproj.AssemblyReference.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.AssemblyInfoInputs.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.AssemblyInfo.cs
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.csproj.CopyComplete
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\refint\Search_Logic_Bll.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\Search_Logic_Bll.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Logic_Bll\obj\Debug\net7.0\ref\Search_Logic_Bll.dll

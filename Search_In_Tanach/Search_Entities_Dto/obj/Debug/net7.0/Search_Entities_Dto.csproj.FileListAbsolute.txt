@@ -1,0 +1,12 @@
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\bin\Debug\net7.0\Search_Entities_Dto.deps.json
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\bin\Debug\net7.0\Search_Entities_Dto.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\bin\Debug\net7.0\Search_Entities_Dto.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.csproj.AssemblyReference.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.AssemblyInfoInputs.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.AssemblyInfo.cs
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\refint\Search_Entities_Dto.dll
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\Search_Entities_Dto.pdb
+C:\Users\user\Documents\שנה ב\C#\Search_In_Tanach_Project\Search_In_Tanach\Search_Entities_Dto\obj\Debug\net7.0\ref\Search_Entities_Dto.dll

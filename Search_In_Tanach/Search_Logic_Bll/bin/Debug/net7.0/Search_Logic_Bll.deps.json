@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Search_Logic_Bll/1.0.0": {
+        "dependencies": {
+          "Search_Entities_Dto": "1.0.0",
+          "TanachText_dal": "1.0.0"
+        },
+        "runtime": {
+          "Search_Logic_Bll.dll": {}
+        }
+      },
+      "Search_Entities_Dto/1.0.0": {
+        "runtime": {
+          "Search_Entities_Dto.dll": {}
+        }
+      },
+      "TanachText_dal/1.0.0": {
+        "runtime": {
+          "TanachText_dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search_Logic_Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Search_Entities_Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TanachText_dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
